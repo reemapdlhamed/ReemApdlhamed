@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/reemelmansy975" target="blank"><img src="https://img.shields.io/twitter/follow/reemelmansy975?logo=twitter&style=for-the-badge" alt="reemelmansy975" /></a> </p>
 
-- 💬 Ask me about **react,angular,node.js,java script and PHP**
+- 💬 Ask me about **react,angular,node.js,JavaScript**
 
 - 📫 How to reach me **reemapdlhamed@gmail.com**
 
